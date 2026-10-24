@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sadaqah-jariyah-18d0bka9hky.qoder.website/sitemap.xml
